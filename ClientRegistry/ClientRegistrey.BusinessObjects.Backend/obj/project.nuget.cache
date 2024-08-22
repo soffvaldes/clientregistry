@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYxT09/5jWTOsjbWp6BNPT07kvXN5Q3RUoHvpHJgboVfuCgPIsrRf3iN/q5zKNaHjuGk8Ys7w5BP9A6B0OFAYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sofia\\Documents\\D.S 2024\\ClientRegistry\\ClientRegistrey.BusinessObjects.Backend\\ClientRegistrey.BusinessObjects.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sofia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

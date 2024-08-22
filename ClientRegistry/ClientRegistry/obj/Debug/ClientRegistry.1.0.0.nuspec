@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClientRegistry</id>
+    <version>1.0.0</version>
+    <authors>ClientRegistry</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\bin\Debug\net8.0\ClientRegistry.dll" target="lib\net8.0\ClientRegistry.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\bin\Debug\net8.0\ClientRegistry.deps.json
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\bin\Debug\net8.0\ClientRegistry.dll
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\bin\Debug\net8.0\ClientRegistry.pdb
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\obj\Debug\net8.0\ClientRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\obj\Debug\net8.0\ClientRegistry.AssemblyInfoInputs.cache
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\obj\Debug\net8.0\ClientRegistry.AssemblyInfo.cs
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\obj\Debug\net8.0\ClientRegistry.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\obj\Debug\net8.0\ClientRegistry.dll
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\obj\Debug\net8.0\refint\ClientRegistry.dll
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\obj\Debug\net8.0\ClientRegistry.pdb
+C:\Users\Sofia\Documents\D.S 2024\ClientRegistry\ClientRegistry\obj\Debug\net8.0\ref\ClientRegistry.dll
